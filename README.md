@@ -3,12 +3,12 @@
     <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">My first Flutter App</h3>
+  <h3 align="center">Flutter App</h3>
 
   <p align="center">
-    My first flutter project
+    Flutter project
     <br>
-    Project made with much :heart:. Contains google_fonts, shared_preferences, intl and flutter_slidable!
+    Project made with much :heart:. 
     <br>
   </p>
 </p>
@@ -22,7 +22,7 @@
 
 ## Preview
 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/103211492/193034491-00dea37f-55f6-40f9-9fa3-1633c7dbeb20.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/103211492/193291401-89d19b6b-d552-4b48-a4d3-bf51e985dddf.gif)
 
 
 ## Quick start
@@ -30,12 +30,6 @@
 This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
 
 ## What's included
-
-- [google_fonts](https://pub.dev/packages/google_fonts)
-- [shared_preferences](https://pub.dev/packages/shared_preferences)
-- [intl](https://pub.dev/packages/intl)
-- [flutter_slidable](https://pub.dev/packages/flutter_slidable)
-
 
 ## Creators
 
